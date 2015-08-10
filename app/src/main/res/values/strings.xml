@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sparkle Games Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="task_one">Task 1</string>
+    <string name="task_two">Task 2</string>
+</resources>
